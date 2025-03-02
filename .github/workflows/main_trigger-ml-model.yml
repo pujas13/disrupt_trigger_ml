@@ -70,4 +70,4 @@ jobs:
           app-name: 'trigger-ml-model'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE6B8400F19243268AE600BA6100FA05 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C2681C3440C3421A8790F0E487C365AF }}
